@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KycApiTier1", "KycApiTier1.csproj", "{C6123D7C-A659-489C-868D-7601AA96AD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6123D7C-A659-489C-868D-7601AA96AD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6123D7C-A659-489C-868D-7601AA96AD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6123D7C-A659-489C-868D-7601AA96AD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6123D7C-A659-489C-868D-7601AA96AD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC6E8C9-11FB-454B-83AF-1780D4D05D34}
+	EndGlobalSection
+EndGlobal
